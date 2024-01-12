@@ -1,0 +1,22 @@
+{
+  "name": "testSDK",
+  "version": "0.1.0",
+  "summary": "A short description of testSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/GuoHongyao/testSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "GuoHongyao": "guohongyao@noxgroup.com"
+  },
+  "source": {
+    "git": "https://github.com/GuoHongyao/testSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "testSDK/Classes/**/*"
+}
